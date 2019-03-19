@@ -1,6 +1,8 @@
 # Standard-Nano
 A design for a standard embedded Nano setup. Used on several projects, build is outlined in full here: https://www.youtube.com/watch?v=cnV-um6RB78
 
+Items Used:
+
 DIP switch multi-pack: https://amzn.to/2FdrxbQ (Amazon)
 
 Arduino Nano clone multi-pack: https://amzn.to/2Y7bQeR (Amazon)

@@ -1,6 +1,8 @@
 # Standard-Nano
 A design for a standard embedded Nano setup. Used on several projects, build is outlined in full here: https://www.youtube.com/watch?v=Pj0s5Yuq5RU
 
+![](https://github.com/JeremySCook/Standard-Nano/blob/master/shrink-wrap.gif)
+
 Items Used:
 
 Double CR2032 Battery Holder: https://amzn.to/2Cvu1Sp (Amazon)

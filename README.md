@@ -3,6 +3,8 @@ A design for a standard embedded Nano setup. Used on several projects, build is 
 
 Items Used:
 
+Double CR2032 Battery Holder: https://amzn.to/2Cvu1Sp (Amazon)
+
 DIP switch multi-pack: https://amzn.to/2FdrxbQ (Amazon)
 
 Arduino Nano clone multi-pack: https://amzn.to/2Y7bQeR (Amazon)

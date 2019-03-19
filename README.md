@@ -1,5 +1,5 @@
 # Standard-Nano
-A design for a standard embedded Nano setup. Used on several projects, build is outlined in full here: https://www.youtube.com/watch?v=cnV-um6RB78
+A design for a standard embedded Nano setup. Used on several projects, build is outlined in full here: https://www.youtube.com/watch?v=Pj0s5Yuq5RU
 
 Items Used:
 

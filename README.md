@@ -7,6 +7,8 @@ Items Used:
 
 Double CR2032 Battery Holder: https://amzn.to/2Cvu1Sp (Amazon)
 
+Shrink Wrap Tubing: https://amzn.to/2ud2eSa (Amazon)
+
 DIP switch multi-pack: https://amzn.to/2FdrxbQ (Amazon)
 
 Arduino Nano clone multi-pack: https://amzn.to/2Y7bQeR (Amazon)
